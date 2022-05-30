@@ -18,7 +18,7 @@ import java.util.*
 class ListResultViewModel : ViewModel() {
 
     companion object {
-        val strApiKey = "AIzaSyBw0VG3ekvJNFKxKbSBBMQane67UGwe6BQ"
+        val strApiKey = "API KEY"
     }
 
     private val modelResultsMutableLiveData = MutableLiveData<ArrayList<ModelResults>>()
